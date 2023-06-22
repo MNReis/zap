@@ -1,0 +1,11 @@
+body{
+background-color: darkslategray;
+
+
+}
+
+.wpp {
+width: 700px;
+position: fixed;
+left: 300px;
+}
