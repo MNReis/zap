@@ -107,7 +107,7 @@ top: 400px;
 border-radius: 20px;
 border: 5px solid;
 border-color: rgb(255, 255, 255)
-
+overflow: auto;
 }
 
 
